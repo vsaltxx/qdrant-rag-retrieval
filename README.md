@@ -15,12 +15,6 @@ Install the dependencies:
 uv sync
 ```
 
-## Working On Your Solution
-- Fork the [pa195_semestral_assignment_2025](https://gitlab.fi.muni.cz/xzovak/pa195_semestral_assignment_2025#) repository in the faculty Gitlab
-- **Your forked repository must be private!**
-- Add [xzovak](https://gitlab.fi.muni.cz/xzovak) user as developer to your repository
-- Create a new feature branch from the master branch
-
 ## Home Assignment Tasks
 1. Task - Data Loading
   - Load data from the Hugging Face dataset and extract appropriate format
@@ -32,12 +26,3 @@ uv sync
   - Employ advanced search techniques such as hybrid search, filtering, reranking and metadata boosting
 5. Evaluation
   - Evaluate the retrieval system and achieve at least 80% average precision
-
-## Submission
-- Push your changes to the feature branch
-  - **Including the notebooks outputs!**
-- Create a merge request to the master branch
-  - Describe your solution in the merge request description
-- Add [xzovak](https://gitlab.fi.muni.cz/xzovak) user as reviewer
-- Wait for the review and merge the changes to the master branch
-- The assignment is considered passed if the merge request is approved
